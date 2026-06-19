@@ -92,7 +92,7 @@ export const botConfig = {
     colors: {
       // Main brand colors.
       primary: "#FFFFFF",
-      secondary: "#ABA7A2",
+      secondary: "#FFFFFF",
 
       // Standard status colors for success/error/warning/info messages.
       success: "#57F287",
