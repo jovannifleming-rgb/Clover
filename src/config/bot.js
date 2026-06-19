@@ -24,9 +24,9 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Made with ❤️",
+        name: "Made by 4ssake",
         // Activity type number (0 = Playing).
-        type: 0,
+        type: 1,
       },
     ],
   },
@@ -91,8 +91,8 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#336699",
-      secondary: "#2F3136",
+      primary: "#756763",
+      secondary: "#ABA7A2",
 
       // Standard status colors for success/error/warning/info messages.
       success: "#57F287",
